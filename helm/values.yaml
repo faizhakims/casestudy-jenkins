@@ -1,5 +1,6 @@
 image:
-  repository: faizhakims/demo-app
+  repository: faizhakim/demo-app
   tag: latest
 replicaCount: 1
+
 
